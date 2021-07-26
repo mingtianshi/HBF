@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Automatically-replace-folder-name/Automatically-replace-folder-name.iml" filepath="$PROJECT_DIR$/Automatically-replace-folder-name/Automatically-replace-folder-name.iml" />
-      <module fileurl="file://$PROJECT_DIR$/auto-library.iml" filepath="$PROJECT_DIR$/auto-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mechanical/Auto-connecter.iml" filepath="$PROJECT_DIR$/Mechanical/Auto-connecter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mechanical/Auto_connecter/Auto_connecter.iml" filepath="$PROJECT_DIR$/Mechanical/Auto_connecter/Auto_connecter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mechanical/Automatically-replace-folder-name/Automatically-replace-folder-name.iml" filepath="$PROJECT_DIR$/Mechanical/Automatically-replace-folder-name/Automatically-replace-folder-name.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FBS.iml" filepath="$PROJECT_DIR$/FBS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mechanical/Mechanical.iml" filepath="$PROJECT_DIR$/Mechanical/Mechanical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/electronic/electronic.iml" filepath="$PROJECT_DIR$/electronic/electronic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/tools.iml" filepath="$PROJECT_DIR$/tools/tools.iml" />
     </modules>
   </component>
 </project>
