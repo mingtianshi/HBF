@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mechanical/Auto-Conneter/Auto-Conneter.iml" filepath="$PROJECT_DIR$/Mechanical/Auto-Conneter/Auto-Conneter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mechanical/Auto-connecter.iml" filepath="$PROJECT_DIR$/Mechanical/Auto-connecter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mechanical/Auto-connecter/Auto_connecter.iml" filepath="$PROJECT_DIR$/Mechanical/Auto-connecter/Auto_connecter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mechanical/Automatically-replace-folder-name/Automatically-replace-folder-name.iml" filepath="$PROJECT_DIR$/Mechanical/Automatically-replace-folder-name/Automatically-replace-folder-name.iml" />
