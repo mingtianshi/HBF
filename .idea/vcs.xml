@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Mechanical/Auto-connecter/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Mechanical/Image_scanning/picture_turns_text/Picture_to_text" vcs="Git" />
   </component>
 </project>

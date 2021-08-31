@@ -4,9 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Mechanical/Auto-Conneter/Auto-Conneter.iml" filepath="$PROJECT_DIR$/Mechanical/Auto-Conneter/Auto-Conneter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mechanical/Auto-connecter.iml" filepath="$PROJECT_DIR$/Mechanical/Auto-connecter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mechanical/Auto_URL_Jump/Auto_URL_Jump.iml" filepath="$PROJECT_DIR$/Mechanical/Auto_URL_Jump/Auto_URL_Jump.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mechanical/Auto-connecter/Auto_connecter.iml" filepath="$PROJECT_DIR$/Mechanical/Auto-connecter/Auto_connecter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mechanical/Automatically-replace-folder-name/Automatically-replace-folder-name.iml" filepath="$PROJECT_DIR$/Mechanical/Automatically-replace-folder-name/Automatically-replace-folder-name.iml" />
       <module fileurl="file://$PROJECT_DIR$/FBS.iml" filepath="$PROJECT_DIR$/FBS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mechanical/Image scanning.iml" filepath="$PROJECT_DIR$/Mechanical/Image scanning.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mechanical/Mechanical.iml" filepath="$PROJECT_DIR$/Mechanical/Mechanical.iml" />
       <module fileurl="file://$PROJECT_DIR$/electronic/electronic.iml" filepath="$PROJECT_DIR$/electronic/electronic.iml" />
       <module fileurl="file://$PROJECT_DIR$/tools/tools.iml" filepath="$PROJECT_DIR$/tools/tools.iml" />
