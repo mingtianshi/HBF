@@ -1,12 +1,8 @@
 #! bash
-your="https://github.91chifun.workers.dev//"
+_91chifun="https://github.91chifun.workers.dev//"
 your_name="`cat lim.txt`.git"
 cat lim.txt | while read line
 do
-	git clone `echo ${your}${line}`
+    git clone `echo ${_91chifun}${line}`
     echo "${line}"
 done
-while read line
-do
-    echo "${your}${line}"
-done < lim.txt
