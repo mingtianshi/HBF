@@ -1,6 +1,0 @@
-https://github.com/justauth/JustAuth.git
-https://github.com/NervJS/taro.git
-https://github.com/iawia002/annie.git
-https://github.com/firstcontributions/first-contribution.git
-https://github.com/ramboxapp/community-edition.git
-https://github.com/sveltejs/community.git

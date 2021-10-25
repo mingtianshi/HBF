@@ -1,29 +1,11 @@
 ## 注意
-lim.txt
-存放URL地址文件的地方
 
-运行代码
+在当前创建git.link   存放存放URL地址文件的地方
 
-```bash
-bash ./dowing.sh
-```
+主要改了一下但是存在bug
 
-dowing.sh
-
-```bash
-#! bash
-your="https://github.91chifun.workers.dev//"
-your_name="`cat lim.txt`.git"
-cat lim.txt | while read line
-do
-	git clone `echo ${your}${line}`
-    echo "${line}"
-done
-while read line
-do
-    echo "${your}${line}"
-done < lim.txt
-```
+- [ ] 无法统计git.link文件
+- [ ] 多线程处理
 
 主要功能是在当前目录下单线程下载库
 
